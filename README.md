@@ -5,7 +5,7 @@ A command-line expense tracker that stores data locally as JSON.
 ## Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Zenon-42/expense-tracker.git
 cd expense-tracker
 npm install
 npm link
